@@ -1,0 +1,42 @@
+// Colors
+$primary-color:#edece4; //beje claro
+$secondary-color: #988c77;//beje escuro
+$border-color: #cbc6b9; //Beje medio
+$text-1-color: #2a2426; //cinza
+$dot-color: #1ab912; //cinza
+
+$fonte-2:'Aref Ruqaa', serif;
+$fonte-1:'PT Mono', monospace;
+
+@function em($pixel, $contexto: 16){
+    @return $pixel / $contexto +em;
+}
+
+@mixin tipo-1 ($size){
+   font-family: $fonte-1;
+   @if $size == 18 {
+       font-size: em(18);
+       line-height: em(30, 18);   
+    }
+}
+
+
+@mixin tipo-2 ($size){
+    font-family: $fonte-2;
+    @if $size == 18 {
+        font-size: em(18);
+        line-height: em(30, 18);   
+    }
+    @else if $size == 24 {
+        font-size: em(24);
+        line-height: em(30, 24);   
+    }
+}
+
+
+// mixin box Shadow
+@mixin box-shadow($shaddow...){
+    -webkit-box-shadow:$shaddow;
+    -moz-box-shadow:$shaddow;
+    box-shadow:$shaddow;
+}
