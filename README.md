@@ -29,7 +29,7 @@
  
 </p>
 
-![teste](https://github.com/ArturRibeiro01/Le-Scone_sass/blob/main/img/readme_images/Imagem1.png)
+![teste](https://github.com/ArturRibeiro01/Le-Scone_sass/blob/main/img/readme_images/Banner_readme.png)
 
 <h4 align="center"> 
 	 🥛 Projeto Le Scone 🥞
@@ -62,19 +62,11 @@ O layout da aplicação está disponível em um arquivo PSD no projeto
 
 ### Mobile
 
-<p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home-mobile.png" width="200px">
+![teste](https://github.com/ArturRibeiro01/Le-Scone_sass/blob/main/img/readme_images/mobile_readme.PNG)
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/detalhes-mobile.svg" width="200px">
-</p>
 
 ### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/sucesso-web.svg" width="400px">
-</p>
+![teste](https://github.com/ArturRibeiro01/Le-Scone_sass/blob/main/img/readme_images/desktop_readme.PNG)
 
 ---
 
