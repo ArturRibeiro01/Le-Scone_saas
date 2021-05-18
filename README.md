@@ -70,17 +70,13 @@ O layout da aplicação está disponível em um arquivo PSD no projeto
 
 ---
 
-## 🛠 Tecnologias
+<br>
 
+### 🛠 Tecnologias
+---
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**
--   **[HTML]())**
--   **[CSS]()**
--   **[SASS](https://sass-lang.com/)**
--   **[Scout App](https://scout-app.io/)**
-
-
-
----
-
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![ScoutApp](https://img.shields.io/badge/-Scout%20App-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
